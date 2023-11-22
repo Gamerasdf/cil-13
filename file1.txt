@@ -1,2 +1,3 @@
 클라우드 및 깃허브
 소스트리 GUI
+chird_cli_exe1 
